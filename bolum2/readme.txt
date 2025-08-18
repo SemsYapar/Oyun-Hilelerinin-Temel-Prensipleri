@@ -1,0 +1,1 @@
+hacı il2cpp.h çoh büyükmüş yükleyemedim onu kendiniz videodan gördüğünüz şekli oluşturursunuz hedef projelerinizde <3
